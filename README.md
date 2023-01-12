@@ -38,5 +38,6 @@ npx pang init <template-type> <project-name>
 ## 特点
 - egg 支持 typescript，支持使用 docker 进行打包镜像
 - react 支持 typescript，支持使用 vite 进行开发打包
+- turbo 用于nextjs子项目模板
 
 
